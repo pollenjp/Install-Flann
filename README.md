@@ -2,6 +2,7 @@
 
 - https://github.com/mariusmuja/flann
 - [高速最近傍点探索ライブラリFLANNを使ってみる - MyEnigma](https://myenigma.hatenablog.com/entry/2016/04/19/214813)
+- どうやらデフォルトで共有ライブラリと静的ライブラリがビルドで生成されるらしい。
 
 
 ```shell
